@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Davide.Grana _ilgranello_@git.training @_ilgranello_
 
 # THANKS
 
-    <name>
+    ilGranelloCorporation
 
 # TECHNOLOGY COLOPHON
 
